@@ -10,8 +10,8 @@
 
 ## Примеры работы программы
 
-![](https://github.com/kovkir/bmstu_cg_course_project/docs/sources/img/example.png)
+![](https://github.com/kovkir/bmstu_cg_course_project/raw/main/docs/sources/img/example.png)
 
-![](https://github.com/kovkir/bmstu_cg_course_project/docs/sources/img/example_4.png)
+![](https://github.com/kovkir/bmstu_cg_course_project/raw/main/docs/sources/img/example4.png)
 
-![](https://github.com/kovkir/bmstu_cg_course_project/docs/sources/img/example_5.png)
+![](https://github.com/kovkir/bmstu_cg_course_project/raw/main/docs/sources/img/example5.png)
